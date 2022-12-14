@@ -1,4 +1,4 @@
-# Travaux pratiques : Maquettage basse qualité
+# Travaux pratiques
 
 ## Expression des besoins 
 
@@ -6,7 +6,4 @@
 
 ## Travaux à réaliser
 
-A partir de votre premier sprint.
-
-1. Réalisez un `story board` de 5 `user stories` de votre choix à partir de votre `sprint backlog`.
-2. Maquettez (maquettes de basse à moyenne qualité) les *US* de votre *sprint backlog* en appliquant les notions vues dans le cours sur l'*UX Design*.
+1. Réalisez un ou plusieurs `story board` à partir de votre `sprint backlog`.

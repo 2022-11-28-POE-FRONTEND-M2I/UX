@@ -2,7 +2,7 @@
 
 ## Modalités
 
-- Utilisez un google docs.
+- Utilisez un Google Docs.
 
 ## Enoncé
 
@@ -10,6 +10,11 @@ GT Fashion anticipe la saison estivale 2023, ci-après les éléments fournis pa
 
 L'équipe Agile a opté pour la méthode du *tri de carte*.
 Avant d'effectuer l'atelier avec des utilisateurs finaux, vous avez décidé de vous prêter au jeu et de réaliser cet atelier vous-même.
+
+1. Regroupement libre des informations
+2. Après avoir trié et réorganisé les informations, renommez éventuellement les titres (noms) en tenant compte de vos utilisateurs finaux.
+
+### Liste des éléments
 
 1. Deux-pièces
 2. Une pièce
