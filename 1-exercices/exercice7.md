@@ -1,4 +1,4 @@
-# Exercice : tri de cartes
+# Exercice 7
 
 ## Modalités
 

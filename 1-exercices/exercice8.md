@@ -1,11 +1,13 @@
-# Exercice
+# Exercice 8
 
-1. Effectuez un brainstorming en suivant les étapes ci-après pour répondre à la problématique :
+1. Réalisez une grille d'évaluation en vous appuyant sur les critères de Nielsen ou ergonomique cf. cours.
+2. Réalisez les audits des sites ci-après sur les interfaces mobile et desktop (version grand écran, ordinateur).
+3. Rédigez un rapport écrit à présenter à notre client *GT Fashion*.
 
-**Trouvez des nouvelles fonctionnalités que l'on peut attribuer à livre ?**
+Un groupe : 
+- [Zara](https://www.zara.com/fr/) ;
+- [Asos](https://www.asos.com/fr/?r=1).
 
-Les étapes :
-- Donnez vos idées "sans filtre" (trouvez autant d'idées que possible, la quantité prime sur la qualité durant cette phase)
-- Explorez d'autres idées à partir des idées énoncées
-- Triez les idées
-- Proposez une à plusieurs solutions pour répondre à la problématique
+L'autre groupe :
+- [H&M](https://www2.hm.com/fr_fr/index.html) ;
+- [SheIn](https://fr.shein.com).
