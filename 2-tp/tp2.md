@@ -6,6 +6,4 @@
 
 ## Travaux à réaliser
 
-1. Adaptez vos interfaces par rapport aux informations que vous avez en votre possession grâce aux étapes empathie, definition, idéation et prototypage (on considère que vos storyboard ont été validé lors de vos tests utilisateurs).
-
-2. Planifiez votre deuxième *sprint* en adoptant une posture **Design Thinking**.
+1. Planifiez votre deuxième *sprint*  ou modifiez votre premier *sprint* en adoptant une posture **Design Thinking**.
