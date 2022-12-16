@@ -6,4 +6,6 @@
 
 ## Travaux à réaliser
 
-1. Planifiez votre deuxième sprint en adoptant une posture *Design Thinking*.
+1. Adaptez vos interfaces par rapport aux informations que vous avez en votre possession grâce aux étapes empathie, definition, idéation et prototypage.
+
+2. Planifiez votre deuxième sprint en adoptant une posture *Design Thinking*.

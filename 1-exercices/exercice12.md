@@ -2,14 +2,21 @@
 
 1. Réalisez les tests utilisateurs sur vos prototypes.
 2. A la fin de chaque test, l'animateur/observateur et le testeur effectue un débriefing ou échange librement sur le test qui a eu lieu.
-2. Une fois que tous les tests utilisateurs terminés, regrouper les résultats et appliquez des changements au(x) prototype(s)
+3. Une fois que tous les tests utilisateurs terminés, regrouper et analyser les résultats.
+4. Sur la base de vos analyses, améliorez le(s) prototype(s).
 
 ## Protocole pour les tests utilisateurs
+
 
 ### Rôles
 
 - Dans chaque groupe 3 testeurs, 3 animateurs/observateurs.
 - Vous serez par binôme un membre de chaque groupe.
+
+## 2 series de test à effectuer
+
+- Le testeur teste le prototype en étant fidèle à lui-même
+- Le testeur teste le prototype en se métant à la place d'un `persona` que l'animateur/observateur lui a présenté.
 
 ### Instructions pour les testeurs
 
