@@ -2,7 +2,7 @@
 
 1. Réalisez les tests utilisateurs sur vos prototypes.
 2. A la fin de chaque test, l'animateur/observateur et le testeur effectue un débriefing ou échange librement sur le test qui a eu lieu.
-3. Une fois que tous les tests utilisateurs terminés, regrouper et analyser les résultats.
+3. Une fois que tous les tests utilisateurs sont terminés, regroupez et analysez les résultats.
 4. Sur la base de vos analyses, améliorez le(s) prototype(s).
 
 ## Protocole pour les tests utilisateurs
@@ -13,10 +13,10 @@
 - Dans chaque groupe 3 testeurs, 3 animateurs/observateurs.
 - Vous serez par binôme un membre de chaque groupe.
 
-## 2 series de test à effectuer
+## 2 séries de test à effectuer
 
-- Le testeur teste le prototype en étant fidèle à lui-même
-- Le testeur teste le prototype en se métant à la place d'un `persona` que l'animateur/observateur lui a présenté.
+- Le testeur teste le prototype en étant fidèle à lui-même.
+- Le testeur teste le prototype en se mettant à la place d'un `persona` que l'animateur/observateur lui a présenté.
 
 ### Instructions pour les testeurs
 
@@ -26,5 +26,5 @@
 
 - L'animateur/observateur, en aucun cas doit porter secours (aider) le testeur.
 - Il prend des notes.
-- Si le testeur rencontre un problème (incompréhension de UI, blocage, etc.), l'animateur le pousse à s'exprimer.
+- Si le testeur rencontre un problème (incompréhension de l'UI, blocage, etc.), l'animateur le pousse à s'exprimer.
 - Si le testeur est énervé, contrarié, l'animateur doit essayer de comprendre la cause (pourquoi) toujours en laissant  le testeur s'exprimer.  
